@@ -1,13 +1,13 @@
 # Basics---Hello-World
 **Author**        : Matt Murphy
 
-**Contact**       : mqm5507@gmail.com
+**Contact**       : mqm5507@gmail.com
 
-**Created**		    : 31 December 2016
+**Created**       : 31 December 2016
 
-**Version**       : 1.0
+**Version**       : 1.0
 
-**Description**   : Hello World in C++, Ansi-style. Code taken from Eclipse	tutorial. No modifications have been made to the source code outside of	documentation.
+**Description**   : Hello World in C++, Ansi-style. Code taken from Eclipse	tutorial. No modifications have been made to the source code outside of	documentation.
 
 **Known Issues**  : none
   - *Note*: Application has been developed on a Linux operating system. There are no apparent problems executing the code on other
