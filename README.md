@@ -10,8 +10,7 @@
 **Description**   : Hello World in C++, Ansi-style. Code taken from Eclipse	tutorial. No modifications have been made to the source code outside of	documentation.
 
 **Known Issues**  : none
-  - *Note*: Application has been developed on a Linux operating system. There are no apparent problems executing the code on other
-      operating systems, but if an issue does arise in regards to compiling, please contact me and let me know.
+  - *Note*: Application has been developed on a Linux operating system. There are no apparent problems executing the code on other operating systems, but if an issue does arise in regards to compiling, please contact me and let me know.
       
 **_How to Build_**
 - Open the terminal and navigate to the application folder.
